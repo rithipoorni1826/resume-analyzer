@@ -1,0 +1,15 @@
+Python Libraries:
+
+nltk: For text preprocessing and stopwords removal.
+
+spacy: For Named Entity Recognition (NER) and skill extraction.
+
+docx2txt: For extracting text from DOCX files.
+
+PyPDF2 and pdfplumber: For extracting text from PDF files.
+
+pandas: For generating and saving analysis results.
+
+scikit-learn: For calculating cosine similarity.
+
+IPython: For displaying HTML output.
